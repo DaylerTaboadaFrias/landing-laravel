@@ -92,7 +92,7 @@
 			            </div>
 			            <div class="col-md-6 text-center text-md-end mt-3 mt-md-0">
 			                <div class="d-flex flex-column align-items-center align-items-md-end">
-			                    <span class="fs-6 white mb-2">Síguenos:</span>
+			                    <span class="fs-6 white mb-2">Síguesdsnos:</span>
 			                    <div>
 			                        <a href="{{$seccionContacto->enlace_facebook}}" target="_blank"><img src="{{asset('images/facebook_white.png')}}" alt="Facebook" class="img-icon-30 mx-2"></a>
 			                        <a href="{{$seccionContacto->enlace_instagram}}" target="_blank"><img src="{{asset('images/instagram_white.png')}}" alt="Instagram" class="img-icon-30 mx-2"></a>
